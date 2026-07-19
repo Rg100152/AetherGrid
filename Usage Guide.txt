@@ -1,0 +1,28 @@
+
+---
+
+## 🛠️ Usage Guide
+
+1. **Launch** – the microscope lens loads with rotating animation.
+2. **Navigate** – use the horizontal floating navigation bar.
+3. **Explore** – scroll through research summaries, constellation, certificates, and organizations.
+4. **View metrics** – rolling odometers and live counters update automatically.
+5. **Interact** – hover over cards for subtle elevation effects.
+6. **Export reports** – click report buttons to simulate PDF/JSON/CSV/XML/SVG exports.
+7. **Change theme** – use the Theme Laboratory to switch between presets.
+
+---
+
+## ⚙️ Technical Details
+
+### Dependencies
+- **None!** Uses only vanilla HTML5, CSS3, and JavaScript (ES6).
+- No frameworks, no libraries, no external fonts (Google Fonts via import).
+
+### Compatibility
+- ✅ Chrome / Edge / Firefox / Safari (latest versions)
+- ✅ Linux / macOS / Windows
+- ✅ Android / iOS (mobile browsers)
+- ✅ Responsive from 320px to 4K ultrawide
+
+### File Structure
