@@ -78,3 +78,55 @@
 <img width="922" height="604" alt="Screenshot_2026-07-19_22-10-51" src="https://github.com/user-attachments/assets/8b6ecdf2-6d22-4db5-be81-97e59e944272" />
 <img width="922" height="604" alt="Screenshot_2026-07-19_22-10-43" src="https://github.com/user-attachments/assets/6a9c8026-ca6d-4eed-b258-78e5967d2e05" />
 <img width="922" height="604" alt="Screenshot_2026-07-19_22-10-35" src="https://github.com/user-attachments/assets/7ea1f55d-5e2e-4f93-b91b-ccf8604e38e4" />
+
+
+
+
+
+
+---
+
+## 📄 Report Export Example
+
+All report exports are **simulated** for demonstration:
+
+- **PDF** – triggers a simulated research paper generation.
+- **JSON** – exports simulated infrastructure data.
+- **CSV** – exports simulated comma-separated values.
+- **XML** – exports simulated XML report.
+- **SVG** – generates a simulated vector graphic report.
+
+---
+
+## ⚠️ Disclaimer
+
+> **AetherGrid is an educational simulation project.**
+> - It does **not** perform real internet scanning, device discovery, or data collection.
+> - All data (counters, charts, search results, research feed) are **randomly generated**.
+> - No data is collected or transmitted.
+> - Use only for learning, UI/UX demonstration, and portfolio purposes.
+> - The author is not responsible for any misuse.
+
+---
+
+## 📄 License
+
+MIT License – see [LICENSE](LICENSE) for details.
+
+---
+
+## 👨‍💻 Author
+
+**Raj Gautam**  
+- GitHub: [@yourusername](https://github.com/yourusername)  
+- Project Link: [https://github.com/yourusername/aethergrid](https://github.com/yourusername/aethergrid)
+
+---
+
+## 🙌 Show Your Support
+
+If you find this project useful, please give it a ⭐ on GitHub – it encourages me to keep building!
+
+---
+
+**🔬 Built for the future of scientific infrastructure observation.**
